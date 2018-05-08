@@ -1,0 +1,10 @@
+(OPSI C tanpa AR) 3 JUTA
+
+1. - Aset 3D (Launcher + Rocket)
+   - gambar untuk di scan di buku
+
+2. - Animasi + Particle di Unity ( Terus tinggal nyari orang lagi buat bikin AR nya)
+
+3. Belajar blender
+
+*soalnya coding sama setting AR buat di unity susah 
