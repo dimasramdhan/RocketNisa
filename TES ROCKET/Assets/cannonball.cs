@@ -7,7 +7,7 @@ public class cannonball : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		Destroy (transform.GetChild (0).gameObject, 2);
-		Destroy (gameObject, 10f);
+		Destroy (gameObject, 5f);
 
 	}
 	
